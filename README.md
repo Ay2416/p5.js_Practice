@@ -1,5 +1,5 @@
 # p5.js_Practice
-I learn p5.js. And, This repository is practice codes (sketches) .
+I learn "p5.js". And, This repository is practice codes (sketches) .
 
 ## Base program !
 * [https://editor.p5js.org/](https://editor.p5js.org/)
